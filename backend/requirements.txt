@@ -1,0 +1,10 @@
+pdfplumber
+langchain-text-splitters
+chromadb
+sentence-transformers
+python-dotenv
+google-genai
+sqlalchemy
+fastapi
+uvicorn
+python-multipart
